@@ -1,0 +1,9 @@
+{
+  "name": "hermes-github-demo",
+  "version": "1.0.0",
+  "description": "Demo repo for Hermes GitHub workflow",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node src/app.test.js"
+  }
+}
